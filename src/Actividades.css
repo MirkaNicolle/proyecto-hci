@@ -1,0 +1,42 @@
+* {
+    background-color: black;
+    padding-top: 5px;
+}
+.header-text {
+    position: relative;
+    align-content: flex;
+    margin: auto;
+    color: #fff;
+    font-weight: lighter;
+    font-family: inherit;
+    text-align: center;
+    font-size: 50px;
+    right: 0px;
+    left: 0px;  
+}
+
+.titulo {
+    text-align: center;
+    font-size: 30px;
+    color: yellow;
+    margin-top: 80px;
+    
+}
+.macetas {
+    text-align: left;
+    padding-top: 15px;;
+}
+
+.huertos {
+   
+    text-align: right; 
+    margin-top: -850px; 
+}
+
+
+
+
+
+
+
+
