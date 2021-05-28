@@ -1,0 +1,23 @@
+
+.btn{
+  position: relative;
+  border: none;
+  border-radius: 40px;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 700;
+  right: 20px;
+  top: -100px;
+  margin: 0 10px;
+  padding: 20px 70px;
+  -webkit-transition: all 0.6s cubic-bezier(0.165, 0.80, 0.40, 1);
+  transition: all 0.6s cubic-bezier(0.165, 0.80, 0.40, 1);
+}
+
+.btn-accept {
+  background-color: #ff3333;
+}
+
+.btn-accept:hover {
+  background-color: #ff333398;
+}
