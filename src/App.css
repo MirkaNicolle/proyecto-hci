@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Dosis&display=swap');
+
+.paginaprincipal{
+    position: absolute;
+    width: 1350px;
+    height: 600px;
+    background-size: cover;
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-image: url(https://cdn.wallpapersafari.com/60/84/gkAHf0.jpg);
+}
+
+.titulopag{
+    display: -webkit-inline-box;
+    -webkit-box-align: center;
+    
+}
+
+.titulopri{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 450px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+    color: white;
+}
+
+.buttoninicio {
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	background-color:#ededed;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	cursor:pointer;
+	color:#0a21a5;
+	font-family: 'Dosis', sans-serif;
+	font-size:17px;
+	padding:7px 25px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+    margin-left: 250px;
+}
+
+.buttoninicio:hover {
+	background:linear-gradient(to bottom, #bab1ba 5%, #ededed 100%);
+	background-color:#bab1ba;
+}
+
+.buttoninicio:active {
+	position:relative;
+	top:1px;
+}
+
+.tierra1{
+    width: 250px;
+    height: 250px;
+    background-size: cover;
+    background-image: url(../src/resorces/earth.png);
+}
+
+.sutitulop1{
+    font-family: 'Dosis', sans-serif;
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    vertical-align: text-top;
+    background-color: #C079DE;
+}
+
+.contenidogeneral{
+    margin-left: 200px;
+    width: 900px;
+    height: 500px;
+}
+
+.contenidopag{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.contenidopag2{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
