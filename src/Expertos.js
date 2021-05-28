@@ -1,9 +1,9 @@
 
 import React, {Component}from 'react';
-import experto from './experto.jpg'
-import experto2 from './experto2.jpg'
-import experto3 from './experto3.jpg'
-import experto4 from './experto4.jpg'
+import experto from './resorces/experto.jpg'
+import experto2 from './resorces/experto2.jpg'
+import experto3 from './resorces/experto3.jpg'
+import experto4 from './resorces/experto4.jpg'
 
 
 class Expertos extends Component{
@@ -64,7 +64,6 @@ class Expertos extends Component{
                 </div>
             </div> 
 
-        
         
         )
 

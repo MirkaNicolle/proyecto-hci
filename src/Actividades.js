@@ -1,15 +1,13 @@
 
 import React, {Component}from 'react';
-import reciclar1 from "./reciclar1.jpg"
-import reciclar from "./reciclar.png"
-import macetas2 from "./macetas2.png"
-import macetas3 from "./macetas3.png"
-import arbol1 from "./arbol1.jpg"
-import huerto from "./huerto.png"
-import huerto4 from "./huerto4.png"
+import reciclar1 from "./resorces/reciclar1.jpg";
+import reciclar from "./resorces/reciclar.png"
+import macetas2 from "./resorces/macetas2.png"
+import macetas3 from "./resorces/macetas3.png"
+import arbol1 from "./resorces/arbol1.jpg"
+import huerto from "./resorces/huerto.png"
+import huerto4 from "./resorces/huerto4.png"
 import './Actividades.css';
-
-
 
 class Actividades extends Component{
     constructor(props){
