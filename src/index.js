@@ -1,7 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Actividades from './Actividades';
-import App from './App';
-import Expertos from './Expertos';
+import Galeria from './Galeria';
 
-ReactDOM.render(<Actividades/>, document.getElementById('root'));
+ReactDOM.render(<Galeria/>, document.getElementById('root'));

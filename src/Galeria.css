@@ -21,7 +21,6 @@
 }
 
 .galeriageneral{
-    background-color: brown;
     height: fit-content;
     width: 800px;
     display: flex;
@@ -35,10 +34,76 @@
     font-family: 'Dosis', sans-serif;
     font-size: 20px;
     text-align: center;
+    background-color: darkolivegreen;
 }
 
 .imagen1{
-    background-color: aqua;
+    background-image: url('./resorces/carru7.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen2{
+    background-image: url('./resorces/carru8.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen3{
+    background-image: url('./resorces/carru9.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen4{
+    background-image: url('./resorces/carru1.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen5{
+    background-image: url('./resorces/carru2.png');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen6{
+    background-image: url('./resorces/carru3.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen7{
+    background-image: url('./resorces/carru4.png');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen8{
+    background-image: url('./resorces/carru5.jpg');
+    background-size: cover;
+    height: 200px;
+    width: 200px;
+    margin: 20px;
+}
+
+.imagen9{
+    background-image: url('./resorces/carru6.jpg');
+    background-size: cover;
     height: 200px;
     width: 200px;
     margin: 20px;
